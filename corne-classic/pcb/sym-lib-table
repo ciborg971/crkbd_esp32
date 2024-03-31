@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "corne-classic-rescue")(type "Legacy")(uri "${KIPRJMOD}/corne-classic-rescue.lib")(options "")(descr ""))
+  (lib (name "TinyS3")(type "KiCad")(uri "${KIPRJMOD}/lib/TinyS3.kicad_sym")(options "")(descr ""))
 )
